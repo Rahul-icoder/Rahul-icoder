@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React and Express.
 - 👯 I’m looking to collaborate on LinkedIn.
 - 💬 Ask me about React and Fronted Design.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahul-kumar-5002981b6/"Rahul") , [Portfolio](https://portfolio-e250f.web.app/"portfolio")
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahul-kumar-5002981b6/) , [Portfolio](https://portfolio-e250f.web.app/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Playing cricket , listening songs.
 
