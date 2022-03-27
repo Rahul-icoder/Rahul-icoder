@@ -1,8 +1,8 @@
 ###    Hi, I'm Rahul 👋
 
-- 🔭 I’m currently working on react and express.
-- 🌱 I’m currently learning React and Express.
+- 🔭 I’m software engineer by profession and love javascript by heart.
+- 🌱 I’m currently learning Typescript, Nextjs and Docker.
 - 👯 I’m looking to collaborate on LinkedIn.
-- 💬 Ask me about React and Express.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahul-kumar-5002981b6/) , [Portfolio](https://portfolio-e250f.web.app/)
-- ⚡ Fun fact: Playing cricket , listening songs.
+- 💬 Ask me about Linux, React and Nodejs.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahul-kumar-5002981b6/) , [Portfolio](https://rahulkushwaha.com/)
+- ⚡ Fun fact: Playing cricket and football , listening songs and watching movies.
