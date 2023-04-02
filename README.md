@@ -8,7 +8,7 @@
 ```javascript
 const rahul = {
     code: ["Javascript", "Go", "Python", "Bash"],
-    askMeAbout: ["web dev", "gadgets", "cloud", "cricket"],
+    askMeAbout: ["web dev", "gadgets", "cloud", "cricket" , "Anime"],
     technologies: {
         cloud: ["AWS", "Netlify", "Heroku"],
         frontEnd: {
@@ -18,7 +18,7 @@ const rahul = {
         backEnd: {
             js: ["node", "express"],
         },
-        Tools: ["Nginx","Postman", "ssh", "ngrok"],
+        Tools: ["Nginx", "Postman", "ssh", "vim", "ngrok"],
         databases: ["mongodb", "MySql"],
         misc: ["Socket.IO","html", "css"]
     },
