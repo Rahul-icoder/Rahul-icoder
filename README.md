@@ -24,7 +24,7 @@ I build IIoT pipelines and dashboards that help manufacturing clients cut reject
 ### 🧾 Tech profile (as code)
 ```javascript
 const rahul = {
-  role: "Senior Software Engineer & Solution Architect",
+  role: "Senior Software & Cloud Engineer",
   experience: "4.5 years",
   languages: ["JavaScript", "TypeScript", "Python", "Go", "Bash"],
   frontend: ["React", "Next.js", "Tailwind", "Material UI"],
